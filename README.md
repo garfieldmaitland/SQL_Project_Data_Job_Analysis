@@ -4,7 +4,7 @@ Dive into the data job market. Focusing on data  roles, this project explores to
 SQL queries? Check them out here: [project_sql folder](/project_sql/).
 
 # Background
-Driven by a quest to understand the labor market, this project was developed to to pinpoint top-paid and in-demand skills, streamling others work to find optimal jobs.
+Driven by a quest to understand the labor market, this project was developed to pinpoint top-paid and in-demand skills, streamlining others' work to find optimal jobs.
 
 ### The questions we want to answer through my SQL queries were:
 
@@ -48,7 +48,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10
 ```
-Here's the breakdown of the jop data analyst jobs in 2023:
+Here's the breakdown of the job data analyst jobs in 2023:
 - **Wide Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significant salary potential in the field.
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
@@ -57,15 +57,15 @@ Here's the breakdown of the jop data analyst jobs in 2023:
 
 # What I Learned
 
-Throught this research, I've refined my SQL skills to extract insights from structured data.
+Through this research, I've refined my SQL skills to extract insights from structured data.
 
 - **Complex Query Crafting:** Improved my SQL of merging tables and using WITH clauses on CTEs and using SubQueries.
 - **DATA Aggregation:** Used the GROUP BY reserved word/phrase and turned aggregate functions like COUNT() and AVG() into effective data-summarizing tools.
-- **Research Mindset:** Improved my real-world puzzle-solving skills, turning questions into actionable, insifhtful SQL queries.
+- **Research Mindset:** Improved my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
 # Conclusions
 ### Insights
-1. **Top-Paying Data Analyst Jobs**: The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the hightest at $650,000.
+1. **Top-Paying Data Analyst Jobs**: The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000.
 2. **Skills for Top-Paying Jobs**: High-paying data jobs require advanced proficiency in SQL, suggesting it's a critical skill for earning a top salary.
 3. **Most In-Demand Skills**: SQL is also the most demanded skill in the data labor market, thus making it essential for job seekers.
 4. **Skills with Higher Salaries**: Specialized skills, such as Kafka and PySpark, are associated with highest average salaries, indicating a premium on niche expertise.
@@ -73,4 +73,4 @@ Throught this research, I've refined my SQL skills to extract insights from stru
 
 ### Closing Thoughts
 
-This research project enhanced my SQL skills and provided valuable insights into the data labor market. The findings from the analysis serve as a guide to prioritizng skill development and job search efforts. Aspiring data professionals can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data.
+This research project enhanced my SQL skills and provided valuable insights into the data labor market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data professionals can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data.
