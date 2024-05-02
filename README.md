@@ -1,5 +1,5 @@
 # Introduction
-Dive into the data job market! Focusing on data analyst roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
+Dive into the data job market. Focusing on data  roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data.
 
 SQL queries? Check them out here: [project_sql folder](/project_sql/).
 
@@ -18,9 +18,9 @@ Driven by a quest to understand the labor market, this project was developed to 
 For our deep dive into the data job market, we harnessed the power of several key tools:
 
 - **SQL:** The backbone of our analysis, allowing me to query the database and unearth critical insights.
-- **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
+- **PostgreSQL & SQLite:** The chosen database management system, ideal for handling the job posting data.
 - **Linux:** Commandeered the macOS terminal command line, to use the default shell bash/zsh to download Homebrew, Git and dependencies.
-- **GitHub:** Essential for version control and sharing our SQL queries and analysis, ensuring collaboration and project tracking.
+- **Git & GitHub:** Essential for version control and sharing our SQL queries and analysis, ensuring collaboration and project tracking.
 - **Visual Studio Code:** Our go-to code-editor/IDE for database management and executing SQL queries.
 
 # The Analysis
